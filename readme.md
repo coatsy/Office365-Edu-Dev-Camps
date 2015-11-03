@@ -12,10 +12,10 @@ Microsoft Australia
 http://blogs.msdn.com/acoat
 ##Agenda
 ###Day 1
-| Time  | Module  | Title                         |
-|-------|---------|-------------------------------|
+| Time  | Module  | Title                         | Notes |
+|-------|---------|-------------------------------|-------|
 | 09:00 | O3651-1 | [Introduction and Office 365 Developer Overview](https://github.com/OfficeDev/TrainingContent/tree/master/O3651/O3651-1%20Overview%20of%20Office%20365%20Development) |
-| 10:00 | O3651-1 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3651/O3651-1%20Overview%20of%20Office%20365%20Development/Lab.md) |
+| 10:00 | O3651-1 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3651/O3651-1%20Overview%20of%20Office%20365%20Development/Lab.md) | 1. The Discover SharePoint app in the lab no longer exists. Try searching for another free app instead. There's a Melbourne Cup sweepstakes app that's quite cool.<br/>2. If you're running Word 2016:<br/>a. The Apps group is now called the Add-ins group, and<br/>b.  the Wikipedia add-in is pre-installed. It's certainly worth enabling it and doing rest of the exercise. Try seaching for another free app as well. There are a couple of cool free Word Cloud apps.<br/>3. You're no longer prompted for the account key by Excel as the Crime dataset now allows unlimited transactions. 
 | 10:30 |         | Morning Tea                   |
 | 10:45 | O3651-5 | [Getting started with the Office 365 APIs](https://github.com/OfficeDev/TrainingContent/tree/master/O3651/O3651-5%20Getting%20started%20with%20Office%20365%20APIs) |
 | 11:30 | O3651-5 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3651/O3651-5%20Getting%20started%20with%20Office%20365%20APIs/Lab.md) |
