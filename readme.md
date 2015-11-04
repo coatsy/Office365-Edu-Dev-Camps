@@ -28,10 +28,13 @@ http://blogs.msdn.com/acoat
 | 15:30 | O3653-3 | [Deep dive into Office 365 APIs for OneDrive for Business](https://github.com/OfficeDev/TrainingContent/tree/master/O3653/O3653-3%20Deep%20Dive%20into%20Office%20365%20APIs%20for%20OneDrive%20for%20Business) |
 | 16:00 |         | Finish |
 
+####Eval
+Please fill in the [Day 1 Eval](http://aka.ms/devcamp-day1).
+
 ###Day 2
-| Time  | Module  | Title                         |
-|-------|---------|-------------------------------|
-| 09:00 | O3653-3 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3653/O3653-3%20Deep%20Dive%20into%20Office%20365%20APIs%20for%20OneDrive%20for%20Business/Lab.md) |
+| Time  | Module  | Title                         | Notes |
+|-------|---------|-------------------------------|-------|
+| 09:00 | O3653-3 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3653/O3653-3%20Deep%20Dive%20into%20Office%20365%20APIs%20for%20OneDrive%20for%20Business/Lab.md) | 1. The lab document shows VS 2013. If you're running VS2015 Community Edition, you'll still need to install the Office Developer tools, but the process is slightly different. If you're running VS2015 Professional or above, the Office developer tools should already be installed.<br/>2. VS2015's Add Connected Service wizard is different from what's shown in the lab notes. You should be able to work our what to do though.<br/>3. The wizard will have already added the `TenantId` for you in VS2015, so you don't actually need to go into the Azure Management Portal any more.<br/>4. If you get a `NullReferenceException` in the `SettingsHelper` class, you'll need to change `ida:Password` to `ida:ClientSecret` in that class.
 | 09:30 | O3657-2 | [Creating Client Side Only Apps with Angular, ADAL and Office 365 API's](https://github.com/OfficeDev/TrainingContent/tree/master/O3657/O3657-2%20Creating%20Client%20Side%20Only%20Apps%20with%20Angular%2C%20ADAL%20and%20Office%20365%20APIs) |
 | 10:00 | O3657-2 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3657/O3657-2%20Creating%20Client%20Side%20Only%20Apps%20with%20Angular%2C%20ADAL%20and%20Office%20365%20APIs/Lab.md) |
 | 10:30 |         | Morning Tea |
@@ -45,6 +48,9 @@ http://blogs.msdn.com/acoat
 | 14:45 |         | Afternoon Tea |
 | 15:00 | O3652-9 | [Advanced Office Add-ins with Excel, Word, PowerPoint](https://github.com/OfficeDev/TrainingContent/tree/master/O3652/O3652-9%20Advanced%20Office%20Add-ins%20with%20Excel%2C%20Word%2C%20PowerPoint) |
 | 15:30 |         | Closing remarks |
+
+####Eval
+Please fill in the [Day 2 Eval](http://aka.ms/devcamp-day2).
 
 ##Resources
 - Main GitHub Training Content Repository<br/>http://github.com/officedev/trainingcontent 
