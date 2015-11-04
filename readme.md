@@ -24,7 +24,7 @@ http://blogs.msdn.com/acoat
 | 13:30 | O3653-1 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3653/O3653-1%20Deep%20Dive%20into%20Azure%20AD%20with%20the%20Office%20365%20APIs/Lab.md) |
 | 14:00 | O3653-8 | [Deep dive into the Office 365 Unified API](https://github.com/OfficeDev/TrainingContent/blob/master/O3653/O3653-8%20Deep%20Dive%20into%20the%20Office%20365%20Unified%20API) |
 | 14:45 |         | Afternoon Tea |
-| 15:00 | O3653-8 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3653/O3653-8%20Deep%20Dive%20into%20the%20Office%20365%20Unified%20API/Lab.md) |
+| 15:00 | O3653-8 | [Lab](https://github.com/OfficeDev/TrainingContent/blob/master/O3653/O3653-8%20Deep%20Dive%20into%20the%20Office%20365%20Unified%20API/Lab.md) | You may get an error trying to retrieve the manager or the files for a user in Exercise 3. The easiest way to avoid this currently is to wrap the calls in a Try/Catch block. |
 | 15:30 | O3653-3 | [Deep dive into Office 365 APIs for OneDrive for Business](https://github.com/OfficeDev/TrainingContent/tree/master/O3653/O3653-3%20Deep%20Dive%20into%20Office%20365%20APIs%20for%20OneDrive%20for%20Business) |
 | 16:00 |         | Finish |
 
