@@ -59,4 +59,4 @@ Please fill in the [Day 2 Eval](http://aka.ms/devcamp-day2).
 - Office Product Team Blogs<br/>http://blogs.office.com
 - Office Features Roadmap<br/>http://www.office.com/roadmap
 - Office Developer Program (including 1 year O365 developer subscription)<br/>http://dev.office.com/devprogram
-
+- Library for Ruby developers<br/>https://github.com/AzureAD/azure-activedirectory-library-for-ruby
